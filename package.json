@@ -1,0 +1,14 @@
+{
+  "name": "contenido-restringido",
+  "version": "1.0.0",
+  "description": "Ejemplo de acceso restringido con Stripe y Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "stripe": "^12.5.0"
+  }
+}
